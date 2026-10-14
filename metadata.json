@@ -1,0 +1,6 @@
+{
+  "name": "Luna AI",
+  "description": "Professional all-in-one AI assistant and image-editing platform. Create. Edit. Ask. Imagine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
